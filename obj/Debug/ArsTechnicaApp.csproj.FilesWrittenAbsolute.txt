@@ -1,0 +1,5 @@
+/Users/codeforcoffee/Projects/ArsTechnicaApp/ArsTechnicaApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/codeforcoffee/Projects/ArsTechnicaApp/ArsTechnicaApp/bin/Debug/ArsTechnicaApp.dll.mdb
+/Users/codeforcoffee/Projects/ArsTechnicaApp/ArsTechnicaApp/bin/Debug/ArsTechnicaApp.dll
+/Users/codeforcoffee/Projects/ArsTechnicaApp/ArsTechnicaApp/obj/Debug/ArsTechnicaApp.dll
+/Users/codeforcoffee/Projects/ArsTechnicaApp/ArsTechnicaApp/obj/Debug/ArsTechnicaApp.dll.mdb
